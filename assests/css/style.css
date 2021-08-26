@@ -1,0 +1,34 @@
+.team {
+    height: 700px;
+}
+
+.team-member{
+    border: 50%;
+}
+
+
+.team .team-member img {
+    width: 150px;
+    height: 250px;
+    margin: auto;
+    border-radius: 50%;
+    display: block;
+}
+
+
+.team .team-member h3 {
+    text-align: center;
+    font-family: candara;
+    font-weight: normal;
+  
+}
+
+.team .team-member p {
+    text-align: center;
+    font-family: candara; 
+}
+.team .team-member {
+    width: 400px;
+    height: 500px;
+   
+}
